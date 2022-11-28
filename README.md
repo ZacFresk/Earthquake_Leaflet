@@ -15,4 +15,4 @@ There are also three filters that can be added or removed from the maps:
 
 This makes for dynamic map that can be adjusted to the user's needs. 
 
-
+![Earthquakes](https://user-images.githubusercontent.com/107363203/204182575-397526fa-fb8c-4714-960a-ef46e2d90111.png)
